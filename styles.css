@@ -1,0 +1,10 @@
+body{
+	text-align:center;
+}
+figure{
+	display:inline-block;
+}
+img{
+	display:inline-block;
+	width:33%;
+}
